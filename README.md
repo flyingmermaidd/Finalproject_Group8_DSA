@@ -91,12 +91,6 @@ This project demonstrated the use of machine learning to solve the loan approval
 - **Handling Data Imbalance**: Use methods such as SMOTE (Synthetic Minority Over-sampling Technique) to address any class imbalance.
 - **Alternative Models**: Implement other classification algorithms like XGBoost or LightGBM to compare performance.
 
-## Sample Output
-
-Below is an example of the output visualizations generated during the project:
-
-![Loan Prediction Result](assets/loan-prediction.png)
-
 ## References
 
 - [Original Kaggle Dataset & Tutorial](https://www.kaggle.com/code/talhabu/loan-eligibility-tutorial-from-scratch-to-advance)
